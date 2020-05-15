@@ -3,4 +3,5 @@ This is a concise runnable sample of Value Object Test Builders Post in [disastr
 
 To run the tests:
 `dotnet build`
+
 `dotnet test`
